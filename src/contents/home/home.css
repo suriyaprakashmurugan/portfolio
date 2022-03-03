@@ -1,0 +1,10 @@
+.home-img{
+    background-image: url(../images/pexels-designecologist-1779487.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.myAvatar{
+    padding-top: 148px;
+    background-color: rgba(14, 14, 14, 0.7);
+}

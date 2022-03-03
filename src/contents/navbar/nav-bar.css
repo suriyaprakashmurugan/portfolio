@@ -1,0 +1,16 @@
+*{
+    color: bisque;
+}
+.txt-dec{
+    text-decoration: none;
+    color:bisque;
+}
+.txt-dec:hover{
+    color:bisque;
+}
+.txt-noDec:hover{
+    color:bisque;
+}
+.txt-noDec{
+    text-decoration: none;
+}
