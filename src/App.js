@@ -11,6 +11,11 @@ function App() {
   return (
     <div className="App">
         <MyNav/>
+        {/* <MyHome/>
+        <About/>
+        <Contact/>
+        <Service/>
+        <Project/> */}
       <Routes>
           <Route index element={<MyHome/>} /> 
           <Route path="About" element={<About/>} />
